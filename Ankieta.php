@@ -17,6 +17,8 @@ require 'C:/xampp/htdocs/example/configure.php';
 	$C = "";
 
 
+	// Przykłądowa zmiana
+	
 	$database = "survey";
 
 	$db_found = new mysqli($server, $user_name, $password, $database );
